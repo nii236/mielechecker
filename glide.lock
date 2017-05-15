@@ -1,0 +1,17 @@
+hash: 347a6bf543e240ccea03cb4aaf51b1c063945500af3743d33bb8e109758ea8c2
+updated: 2017-05-14T22:59:10.53305592+08:00
+imports:
+- name: github.com/andybalholm/cascadia
+  version: 349dd0209470eabd9514242c688c403c0926d266
+- name: github.com/mailgun/mailgun-go
+  version: 42d0ac7e23c25fcbeaef49d31bde3330bee3f914
+- name: github.com/pkg/errors
+  version: ff09b135c25aae272398c51a07235b90a75aa4f0
+- name: github.com/PuerkitoBio/goquery
+  version: e1271ee34c6a305e38566ecd27ae374944907ee9
+- name: golang.org/x/net
+  version: da118f7b8e5954f39d0d2130ab35d4bf0e3cb344
+  subpackages:
+  - html
+  - html/atom
+testImports: []

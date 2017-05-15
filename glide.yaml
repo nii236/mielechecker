@@ -1,0 +1,6 @@
+package: github.com/nii236/mielechecker
+import:
+- package: github.com/PuerkitoBio/goquery
+- package: github.com/andybalholm/cascadia
+- package: github.com/mailgun/mailgun-go
+- package: github.com/pkg/errors
